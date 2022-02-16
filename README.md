@@ -69,5 +69,5 @@ cd test-app
 npm run start
 
 # navigate to
-127.0.0.1:8003
+[127.0.0.1:8003](127.0.0.1:8003)
 ```
